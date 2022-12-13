@@ -1,6 +1,6 @@
+package com.ifsc.tds;
 
-public class Enderenco {
-
+public class Endereco {
 	private static final String GETCEP = null;
 	private String rua;
 	private int numero;
@@ -46,3 +46,9 @@ public class Enderenco {
 	
 	
 }
+
+
+
+
+
+

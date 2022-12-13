@@ -1,4 +1,4 @@
-
+package com.ifsc.tds;
 public class Juridico extends Cliente {
 	private String CNPJ;
 

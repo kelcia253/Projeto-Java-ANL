@@ -1,3 +1,6 @@
+package com.ifsc.tds;
+ 
+import com.ifsc.tds.Endereco;
 
 public class UC {
 	
