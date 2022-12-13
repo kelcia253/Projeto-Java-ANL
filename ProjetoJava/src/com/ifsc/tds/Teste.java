@@ -16,11 +16,17 @@ public class Teste {
 					
 	Scanner teclado = new Scanner(System.in);
 	
+	
 	int opcao = teclado.nextInt();
 	if(opcao == 1) {
+		Cliente cliente = new Cliente();
+			
+		System.out.println("Digite o nome do cliente: \n");
+		String nome = teclado.next();
+		cliente.setNome(nome);
 		
-	System.out.println("Digite o nome do cliente: \n");
-	setNome
+		System.out.println("Digite o endeço do cliente: \n");
+		
 	
 	
 	
